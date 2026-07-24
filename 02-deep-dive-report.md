@@ -1,6 +1,6 @@
 # 02 - Deep Dive Report
 
-Tên nhóm: Nhóm Xanh SM Pin Thấp
+Tên nhóm: mam-c-m-nh-h-nh-phuc-to
 
 Thành viên:
 - Trần Quang Thành - Mã HV: 2A202601133
