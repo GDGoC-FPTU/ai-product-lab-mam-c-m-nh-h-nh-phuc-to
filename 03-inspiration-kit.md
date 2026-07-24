@@ -1,4 +1,5 @@
 # Inspiration Kit — Gợi ý tìm bài toán (Vin Smart Future Edition)
+ai-product-lab-mam-c-m-nh-h-nh-phuc-to - Ha Tan Phong - 2A202601577
 
 > **Sử dụng khi bạn chưa nghĩ ra đủ 5 problems trong Phase 1. Đây không phải kịch bản bắt buộc — chỉ là gợi ý thực tế để kích hoạt tư duy sáng tạo của bạn.**
 

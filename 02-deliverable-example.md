@@ -1,4 +1,5 @@
 # Deliverable Example — Vin Smart Future (GSM / Xanh SM Use Case)
+ai-product-lab-mam-c-m-nh-h-nh-phuc-to - Ha Tan Phong - 2A202601577
 
 > **Ví dụ bài nộp hoàn chỉnh từ đầu đến cuối lab, đã được định vị lại theo Rubric mới và bối cảnh vận hành của Vin Smart Future.**
 > 
