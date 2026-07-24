@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1342 >>
+stream
+BT
+/F1 18 Tf
+50 545 Td
+(04 Workflow Diagram - Xanh SM Battery Incident Current State) Tj
+/F1 11 Tf
+0 -35 Td
+(Step 1: Driver calls dispatch about low battery - 2 min) Tj
+0 -22 Td
+(Handoff: phone call from driver to dispatcher) Tj
+0 -32 Td
+(Step 2: Dispatcher asks vehicle plate, GPS location, battery percent - 2 min) Tj
+0 -22 Td
+(Handoff: dispatcher checks vehicle dashboard) Tj
+0 -32 Td
+(Step 3: Dispatcher searches VinFast charging stations and available plugs - 3 min) Tj
+0 -22 Td
+(Handoff: dispatcher switches from vehicle dashboard to station dashboard) Tj
+0 -32 Td
+(Step 4: BOTTLENECK - Validate charger compatibility, station distance, traffic risk - 5 min) Tj
+0 -22 Td
+(Risk: wrong station choice may strand the EV if battery is critical) Tj
+0 -32 Td
+(Step 5: BOTTLENECK - Draft Vietnamese route guidance manually - 4 min) Tj
+0 -22 Td
+(Risk: message can be sent without enough review during peak hour) Tj
+0 -32 Td
+(Step 6: Dispatcher sends guidance or calls mobile charging team - 1 min) Tj
+0 -32 Td
+(Total current handling time: about 17 minutes per incident) Tj
+0 -40 Td
+(Legend: BOTTLENECK = slow/error-prone step. Handoff = information moves between people or systems.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1703
+%%EOF
